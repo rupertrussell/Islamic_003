@@ -7,4 +7,5 @@ http://islamicartsmagazine.com/magazine/view/islamic_geometric_design_by_eric_br
 https://thamesandhudson.com/catalog/product/view/id/2847/s/islamic-geometric-design-9780500516959/category/2/
 
 version _07 includes the guidelines
+
 version _08 is just the final star 
